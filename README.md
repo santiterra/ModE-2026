@@ -16,11 +16,11 @@ Repositorio de trabajo de la asignatura **Modelos Estadísticos para la clasific
 .
 ├── README.md
 └── ObligatorioX/
-    ├── README.md              # Detalle de los problemas
+    ├── RESUME.md               # Detalle de los problemas
     ├── ObligatorioX.pdf        # Enunciado
-    ├── problemaA/              # Archivos del primer problema
-    ├── problemaB/              # Archivos del segundo problema
-    └── problemaC/              # Archivos del tercer problema
+    ├── problema1/              # Archivos del primer problema
+    ├── problema2/              # Archivos del segundo problema
+    └── ...
 ```
 
 Cada entrega tendrá su propia carpeta con el enunciado, el código (notebooks o scripts) y un README con el detalle de los problemas.
@@ -29,7 +29,7 @@ Cada entrega tendrá su propia carpeta con el enunciado, el código (notebooks o
 
 | Entrega | Tema | Fecha de entrega |
 |---------|------|------------------|
-| [Obligatorio 1](Obligatorio1/README.md) | Estimadores de máxima verosimilitud, regresión lineal/polinomial y regularización | 12/10/2026 |
+| [Obligatorio 1](Obligatorio1/RESUME.md) | Estimadores de máxima verosimilitud, regresión lineal/polinomial y regularización | 12/10/2026 |
 
 ## Tecnologías
 
