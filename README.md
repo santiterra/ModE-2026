@@ -4,11 +4,11 @@ Repositorio de trabajo de la asignatura **Modelos Estadísticos para la clasific
 
 ## Integrantes
 
-| Integrante | Cédula |
-|------------|--------|
-| _Nombre 1_ | _Cédula 1_ |
-| _Nombre 2_ | _Cédula 2_ |
-| _Nombre 3_ | _Cédula 3_ |
+| Integrante          | Cédula     |
+|---------------------|------------|
+| _Juan Araújo_       | _55010268_ |
+| _Nicolás Gutierrez_ | _53032856_ |
+| _Santiago Terra_    | _54904393_ |
 
 ## Estructura del repositorio
 
@@ -29,7 +29,7 @@ Cada entrega tendrá su propia carpeta con el enunciado, el código (notebooks o
 
 | Entrega | Tema | Fecha de entrega |
 |---------|------|------------------|
-| [Obligatorio 1](Obligatorio1/RESUME.md) | Estimadores de máxima verosimilitud, regresión lineal/polinomial y regularización | 12/10/2026 |
+| [Obligatorio 1](Obligatorio1/RESUME.md) | Estimadores de máxima verosimilitud, regresión lineal/polinomial y regularización | 16/10/2026       |
 
 ## Tecnologías
 
@@ -38,7 +38,7 @@ Cada entrega tendrá su propia carpeta con el enunciado, el código (notebooks o
 - **Entorno:** Jupyter Notebook / Google Colab
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
+pip install numpy pandas matplotlib scikit-learn jupyter 
 ```
 
 ```bash
