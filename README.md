@@ -23,13 +23,14 @@ Repositorio de trabajo de la asignatura **Modelos Estadísticos para la clasific
     └── ...
 ```
 
-Cada entrega tendrá su propia carpeta con el enunciado, el código (notebooks o scripts) y un README con el detalle de los problemas.
+Cada entrega tendrá su propia carpeta con el enunciado, el código (notebooks o scripts) y un RESUME.md con el detalle de los problemas.
 
 ## Entregas
 
 | Entrega | Tema | Fecha de entrega |
 |---------|------|------------------|
 | [Obligatorio 1](Obligatorio1/RESUME.md) | Estimadores de máxima verosimilitud, regresión lineal/polinomial y regularización | 16/10/2026       |
+| [Obligatorio 2](Obligatorio2/RESUME.md) | Datos sintéticos, comparación de modelos de regresión y desplazamiento de distribución (PCA) | 11/11/2026       |
 
 ## Tecnologías
 
